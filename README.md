@@ -9,7 +9,6 @@ no wallet keys, no real fund movement**; every balance and address is local and 
 
 
 ![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet&logoColor=white)
-![WPF](https://img.shields.io/badge/UI-WPF-0C54C2)
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-0078D6?logo=windows&logoColor=white)
 ![Architecture](https://img.shields.io/badge/architecture-MVVM-1F8EFA)
 ![License](https://img.shields.io/badge/license-MIT-16C784)
